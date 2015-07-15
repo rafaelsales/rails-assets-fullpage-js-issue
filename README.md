@@ -4,10 +4,10 @@ How I tried to setup:
 
 1. Added the following content on Gemfile:
     ```ruby
-source 'https://rails-assets.org' do
-  gem 'rails-assets-fullpage.js'
-end
-```
+  source 'https://rails-assets.org' do
+    gem 'rails-assets-fullpage.js'
+  end
+    ```
 
 2. Added the `fullpage.js` bower package name on both application.js and application.css
 
